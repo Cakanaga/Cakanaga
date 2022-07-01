@@ -1,6 +1,7 @@
-👋 Hi, Cynthia Akanaga, a Computer Science major at Mount Holyoke College, and aspiring SWE.
-😄 Pronouns: she/her
-📫 [link](https://www.linkedin.com/in/cynthia-akanaga/) | akana22c@mtholyoke.edu
+- 👋 Hi, Cynthia Akanaga, a Computer Science major at Mount Holyoke College.
+- :eyes: I'm interested in Full Stack Development, Mobile Development, Data Science, Machine Learning and Artificial Intelligence.
+- 👯 I’m looking to collaborate on projects and hackathons
+- 📫 [LinkedIn](https://www.linkedin.com/in/cynthia-akanaga/) | akana22c@mtholyoke.edu
 
 
 
