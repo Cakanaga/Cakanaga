@@ -1,6 +1,6 @@
 - 👋 Hi, Cynthia Akanaga, a Computer Science major at Mount Holyoke College.
-- :eyes: I'm interested in Full Stack Development, Mobile Development, Data Science, Machine Learning and Artificial Intelligence.
-- 👯 I’m looking to collaborate on projects and hackathons
+- :eyes: I'm interested in Full Stack Development, Mobile Development, Data analysis, Machine Learning and Artificial Intelligence.
+- 👯 I’m looking to collaborate on projects and hackathons.
 - 📫 [LinkedIn](https://www.linkedin.com/in/cynthia-akanaga/) | akana22c@mtholyoke.edu
 
 
