@@ -1,22 +1,8 @@
-### Hi there 👋, my name is Cynthia Akanaga
-#### CS major @ Mount Holyoke College
+👋 Hi, Cynthia Akanaga, a Computer Science major at Mount Holyoke College, and aspiring SWE.
+😄 Pronouns: she/her
+📫 [link](https://www.linkedin.com/in/cynthia-akanaga/) | akana22c@mtholyoke.edu
 
 
-- 🔭 I’m currently working on this page. 
-- 😄 Pronouns: she/her 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakanaga)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cakanaga&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cakanaga)  
-
-![GitHub metrics](https://metrics.lecoq.io/cakanaga)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cakanaga)  
 
 
 
@@ -30,4 +16,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Markdown Tips:
+
+To bolden the text, wrap it with two asterisks (*) (**word**)
+To italisize the text, wrap it with one asterisk (*) (*word*)
+To strikethrough the text, wrap it with two tildes (~) (~~word~~)
+To make a link, place the link text in brackets and the url in parentheses ([link](http://example.com))
+To make an example icon image, place an !, the alt text in brackets, and the url in parentheses (![github](/images/icon.png))
 -->
