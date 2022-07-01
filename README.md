@@ -1,3 +1,7 @@
+👋 Hi, I’m Cynthia Akanaga, a Computer Science major at Mount Holyoke College.
+
+
+
 <!--
 
 👋 Hi, I’m Cynthia Akanaga, a Computer Science major at Mount Holyoke College.
