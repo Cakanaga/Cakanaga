@@ -1,10 +1,11 @@
-👋 Hi, I’m Cynthia Akanaga, a Computer Science major at Mount Holyoke College.
+- 👋 Hi, I’m Cynthia Akanaga, a Computer Science major at Mount Holyoke College.
+-  📫 How to reach me: 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakanaga)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
-
-👋 Hi, I’m Cynthia Akanaga, a Computer Science major at Mount Holyoke College.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on projects and hackathons
